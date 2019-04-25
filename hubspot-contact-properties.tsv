@@ -1,0 +1,188 @@
+name	description
+company_size	
+date_of_birth	
+days_to_close	The days that elapsed from when a contact was created until they closed as a customer. This is set automatically by HubSpot and can be used for segmentation and reporting.
+degree	
+field_of_study	
+first_conversion_date	The date this contact first submitted a form
+first_conversion_event_name	The first form this contact submitted
+first_deal_created_date	The date the first deal for a contact was created. This is automatically set by HubSpot and can be used for segmentation and reporting.
+gender	
+graduation_date	
+hs_additional_emails	A set of additional email addresses for a contact
+hs_all_contact_vids	A set of all vids, canonical or otherwise, for a contact
+hs_analytics_first_touch_converting_campaign	The campaign responsible for the first touch creation of this contact
+hs_analytics_last_touch_converting_campaign	The campaign responsible for the last touch creation of this contact
+hs_avatar_filemanager_key	The path in the FileManager CDN for this contact's avatar override image. Automatically set by HubSpot.
+hs_calculated_form_submissions	A set of all form submissions for a contact
+hs_calculated_merged_vids	Merged vids with timestamps of a contact
+hs_calculated_mobile_number	Mobile number in international format
+hs_calculated_phone_number	Phone number in international format
+hs_calculated_phone_number_area_code	Area Code of the calculated phone number
+hs_calculated_phone_number_country_code	Country code of the calculated phone number
+hs_calculated_phone_number_region_code	ISO2 Country code for the derived phone number
+hs_content_membership_email_confirmed	Email Confirmation status of user of Content Membership
+hs_content_membership_notes	Membership Notes
+hs_content_membership_registered_at	Datetime at which this user was set up for Content Membership
+hs_content_membership_registration_domain_sent_to	Domain to which the registration invitation email for Content Membership was sent to
+hs_content_membership_registration_email_sent_at	Datetime at which this user was sent a registration invitation email for Content Membership
+hs_content_membership_status	Membership Status
+hs_created_by_conversations	Flag indicating this contact was created by the Conversations API
+hs_document_last_revisited	The last time a shared document (presentation) was accessed by this contact
+hs_email_domain	A contact's email address domain
+hs_email_quarantined	Indicates that the current email address has been quarantined for anti-abuse reasons and any marketing email sends to it will be blocked. This is automatically set by HubSpot.
+hs_email_recipient_fatigue_recovery_time	When this recipient has reached the limit of email sends per time period, this property indicates the next available time to send. This is automatically set by HubSpot.
+hs_email_sends_since_last_engagement	The number of marketing emails that have been sent to the current email address since the last engagement (open or link click). This is automatically set by HubSpot.
+hs_emailconfirmationstatus	The status of a contact's eligibility to receive marketing email. This is automatically set by HubSpot.
+hs_facebook_ad_clicked	Whether contact has clicked a Facebook ad
+hs_facebookid	A contact's facebook id
+hs_feedback_last_nps_follow_up	Last NPS survey comment that this contact gave
+hs_feedback_last_nps_rating	Last NPS survey rating that this contact gave
+hs_feedback_last_survey_date	The time that this contact last submitted a NPS survey response. This is automatically set by HubSpot.
+hs_feedback_show_nps_web_survey	Whether or not a contact should be shown an NPS web survey. This is automatically set by HubSpot.
+hs_google_click_id	
+hs_googleplusid	A contact's googleplus id
+hs_ip_timezone	The timezone reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+hs_lead_status	The contact's sales, prospecting or outreach status
+hs_legal_basis	Legal basis for processing contact's data; 'Not applicable' will exempt the contact from GDPR protections
+hs_linkedinid	A contact's linkedin id
+hs_predictivecontactscore_v2	The probability that a contact will become a customer within the next 90 days. This score is based on standard contact properties and behavior.
+hs_predictivescoringtier	A ranking system of contacts evenly assigned into four tiers. Contacts in tier one are more likely to become customers than contacts in tier four.
+hs_sales_email_last_clicked	The last time a tracked sales email was clicked by this user
+hs_sales_email_last_opened	The last time a tracked sales email was opened by this user
+hs_searchable_calculated_international_mobile_number	Mobile number with country code
+hs_searchable_calculated_international_phone_number	Phone number with country code
+hs_searchable_calculated_mobile_number	Mobile number without country code
+hs_searchable_calculated_phone_number	Phone number without country code
+hs_sequences_is_enrolled	A yes/no field that indicates whether the contact is currently in a Sequence.
+hs_twitterid	A contact's twitter id
+hubspot_owner_assigneddate	The most recent date a HubSpot Owner was assigned to a contact. This is set automatically by HubSpot and can be used for segmentation and reporting.
+ip_city	The city reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+ip_country	The country reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+ip_country_code	The country code reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+ip_latlon	
+ip_state	The state or region reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+ip_state_code	The state code or region code reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+ip_zipcode	The zipcode reported by a contact's IP address. This is automatically set by HubSpot and can be used for segmentation and reporting.
+job_function	
+lastmodifieddate	The date any property on this contact was modified
+marital_status	
+military_status	
+num_associated_deals	The number of deals associated with this contact. This is set automatically by HubSpot.
+num_conversion_events	The number of forms this contact has submitted
+num_unique_conversion_events	The number of different forms this contact has submitted
+recent_conversion_date	The date this contact last submitted a form
+recent_conversion_event_name	The last form this contact submitted
+recent_deal_amount	The amount of the last closed won deal associated with a contact. This is set automatically by HubSpot based on information from the Deals object.
+recent_deal_close_date	The date that the last deal associated with a contact was won. This is automatically set by HubSpot based on information from the Deals object.
+relationship_status	
+school	
+seniority	
+start_date	
+total_revenue	The sum from all closed won deal revenue associated with a contact. This is automatically set by HubSpot and can be used for segmentation and reporting.
+work_email	
+blog_default_hubspot_blog_9061069516_subscription	
+firstname	A contact's first name
+hs_analytics_first_url	The first page a contact saw on your website. This is automatically set by HubSpot for each contact.
+hs_email_delivered	The number of marketing emails delivered for the current email address. This is automatically set by HubSpot.
+hs_email_optout_6589463	Indicates that the current email address has opted out of this email type.
+hs_email_optout_6589464	Indicates that the current email address has opted out of this email type.
+hs_email_optout_6589515	Indicates that the current email address has opted out of this email type.
+hs_email_optout_6589517	Indicates that the current email address has opted out of this email type.
+twitterhandle	The contact's Twitter handle. This is set by HubSpot using the contact's email address.
+currentlyinworkflow	If the contact is currently enrolled in any workflow
+destiny_course_history	
+followercount	The number of Twitter followers a contact has
+hs_analytics_last_url	The last page a contact saw on your website. This is automatically set by HubSpot for each contact.
+hs_email_open	The number of marketing emails opened for the current email address. This is automatically set by HubSpot.
+lastname	A contact's last name
+hs_analytics_num_page_views	The sum of all pages a contact has seen on your website. This is automatically set by HubSpot for each contact.
+hs_email_click	The number of marketing emails which have had link clicks for the current email address. This is automatically set by HubSpot.
+salutation	The title used to address a contact
+twitterprofilephoto	The contact's Twitter profile photo. This is set by HubSpot using the contact's email address.
+email	A contact's email address
+hs_analytics_num_visits	The sum of all visits a contact has made to your website. This is automatically set by HubSpot for each contact.
+hs_email_bounce	The number of marketing emails that bounced for the current email address. This is automatically set by HubSpot.
+hs_persona	A contact's persona
+hs_social_last_engagement	The date of the most recent click on a published social message. This is set automatically by HubSpot for each contact.
+hs_analytics_num_event_completions	The sum of all events a contact has experienced. This is automatically set by HubSpot for each contact.
+hs_email_optout	Indicates that the current email address has opted out of all email.
+hs_social_twitter_clicks	The number of times a contact clicked on links you shared on Twitter through HubSpot. This is set automatically by HubSpot and can be used for segmentation.
+mobilephone	A contact's mobile phone number
+phone	A contact's primary phone number
+fax	A contact's primary fax number
+hs_analytics_first_timestamp	The first time a contact has been seen. This is automatically set by HubSpot for each contact.
+hs_email_last_email_name	The name of the last marketing email sent to the current email address. This is automatically set by HubSpot.
+hs_email_last_send_date	The date of the most recent delivery for any marketing email to the current email address. This is automatically set by HubSpot.
+hs_social_facebook_clicks	The number clicks on links shared on Facebook
+address	A contact's street address, including apartment or unit #
+engagements_last_meeting_booked	The date of the most recent meeting booked from the Meetings app.
+engagements_last_meeting_booked_campaign	The campaign of the last meeting booked through the Meetings App (ex: the specific email that was sent)
+engagements_last_meeting_booked_medium	The medium of the last meeting booked through the Meetings App (ex: email or website or in-app)
+engagements_last_meeting_booked_source	The source of the last meeting booked through the Meetings App (ex: pql-email, landing-page)
+hs_analytics_first_visit_timestamp	The first time a contact visited your website. This is automatically set by HubSpot for each contact.
+hs_email_last_open_date	The date of the most recent open for any marketing email to the current email address. This is automatically set by HubSpot.
+hs_sales_email_last_replied	The last time a tracked sales email was replied to by this user. This is set automatically by HubSpot based on user actions in the contact record.
+hs_social_linkedin_clicks	The number clicks on links shared on LinkedIn
+hubspot_owner_id	The owner of a contact. This can be any HubSpot user or Salesforce integration user, and can be set manually or via Workflows.
+notes_last_contacted	The last time a call, email, or meeting was logged for a contact. This is set automatically by HubSpot based on user actions in the contact record.
+notes_last_updated	The last time a note, call, email, meeting, or task was logged for a contact. This is set automatically by HubSpot based on user actions in the contact record.
+notes_next_activity_date	The date of the next upcoming activity for a contact. This is set automatically by HubSpot based on user actions in the contact record.
+num_contacted_notes	The number of times a call, email, or meeting was logged for a contact. This is set automatically by HubSpot based on user actions in the contact record.
+num_notes	The number of sales activities for a contact. This is set automatically by HubSpot based on user actions in the contact record.
+surveymonkeyeventlastupdated	This field is meaningless on its own, and is solely used for triggering dynamic list updates when SurveyMonkey information is updated
+webinareventlastupdated	This field is meaningless on its own, and is solely used for triggering dynamic list updates when webinar information is updated
+city	A contact's city of residence
+hs_analytics_last_timestamp	The last time and date a contact has viewed a page on your website.
+hs_email_last_click_date	The date of the most recent link click for any marketing email to the current email address. This is automatically set by HubSpot.
+hs_social_google_plus_clicks	The number clicks on links shared on Google Plus
+hubspot_team_id	The team of the owner of a contact.
+linkedinbio	A contact's LinkedIn bio
+twitterbio	The contact's Twitter bio. This is set by HubSpot using the contact's email address.
+hs_all_owner_ids	The value of all owner referencing properties for this object, both default and custom
+hs_analytics_last_visit_timestamp	The last time and date a contact visited your website.
+hs_email_first_send_date	The date of the earliest delivery for any marketing email to the current email address. This is automatically set by HubSpot.
+hs_social_num_broadcast_clicks	The number of clicks on published social messages. This is set automatically by HubSpot for each contact.
+state	The contact's state of residence. This might be set via import, form, or integration.
+hs_all_team_ids	The team ids corresponding to all owner referencing properties for this object, both default and custom
+hs_analytics_source	The first known source through which a contact found your website. Source is automatically set by HubSpot, but may be updated manually.
+hs_email_first_open_date	The date of the earliest open for any marketing email to the current email address. This is automatically set by HubSpot.
+zip	The contact's zip code. This might be set via import, form, or integration.
+country	The contact's country of residence. This might be set via import, form, or integration.
+hs_all_accessible_team_ids	The team ids, including up the team hierarchy, corresponding to all owner referencing properties for this object, both default and custom
+hs_analytics_source_data_1	Additional information about the source through which a contact first found your website. This property is automatically set by HubSpot.
+hs_email_first_click_date	The date of the earliest link click for any marketing email to the current email address. This is automatically set by HubSpot.
+linkedinconnections	How many LinkedIn connections they have
+hs_analytics_source_data_2	Additional information about the source through which a contact first found your website. This property is automatically set by HubSpot.
+hs_email_is_ineligible	Indicates the contact is globally ineligible for email.
+hs_language	Set your contact's preferred language for communications. This property can be changed from an import, form, or integration.
+kloutscoregeneral	A contact's Klout score, a measure of Internet influence
+hs_analytics_first_referrer	The first website that referred a contact to your website. This is automatically set by HubSpot for each contact.
+jobtitle	A contact's job title
+photo	Social Media photo
+hs_analytics_last_referrer	The last website that referred a contact to your website. This is automatically set by HubSpot for each contact.
+message	A default property to be used for any message or comments a contact may want to leave on a form.
+closedate	The date that a contact became a customer. This property is set automatically by HubSpot when a deal or opportunity is marked as closed-won. It can also be set manually or programmatically.
+hs_analytics_average_page_views	The average number of pages a contact sees. This is automatically set by HubSpot for each contact.
+hs_analytics_revenue	Event revenue can be set on a contact though HubSpot's enterprise Events. http://help.hubspot.com/articles/KCS_Article/Reports/How-do-I-create-Events-in-HubSpot
+hs_lifecyclestage_lead_date	The date when a contact's lifecycle stage changed to Lead. This is automatically set by HubSpot for each contact.
+hs_lifecyclestage_marketingqualifiedlead_date	The date when a contact's lifecycle stage changed to MQL. This is automatically set by HubSpot for each contact.
+hs_lifecyclestage_opportunity_date	The date when a contact's lifecycle stage changed to Opportunity. This is automatically set by HubSpot for each contact.
+lifecyclestage	The qualification of contacts to sales readiness. It can be set through imports, forms, workflows, and manually on a per contact basis.
+hs_lifecyclestage_salesqualifiedlead_date	The date when a contact's lifecycle stage changed to SQL. This is automatically set by HubSpot for each contact.
+ipaddress	A contact's IP Address
+createdate	The date that a contact entered the system
+hs_lifecyclestage_evangelist_date	The date when a contact's lifecycle stage changed to Evangelist. This is automatically set by HubSpot for each contact.
+hs_lifecyclestage_customer_date	The date when a contact's lifecycle stage changed to Customer. This is automatically set by HubSpot for each contact.
+hubspotscore	The number that shows qualification of contacts to sales readiness. It can be set in HubSpot's Lead Scoring app.
+company	A company's name
+hs_lifecyclestage_subscriber_date	The date when a contact's lifecycle stage changed to Subscriber. This is automatically set by HubSpot for each contact.
+hs_lifecyclestage_other_date	The date when a contact's lifecycle stage changed to Other. This is automatically set by HubSpot for each contact.
+website	A company's website
+numemployees	The number of company employees
+annualrevenue	Annual company revenue
+industry	A company's industry
+associatedcompanyid	A company's ID
+associatedcompanylastupdated	This field is meaningless on its own, and is solely used for triggering dynamic list updates when a company is updated
+hs_predictivecontactscorebucket	The rating of this contact based on their predictive lead score
+hs_predictivecontactscore	A score calculated by HubSpot that represents a contact's likelihood to become a customer
